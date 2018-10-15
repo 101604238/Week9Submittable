@@ -1,0 +1,6 @@
+C:\Users\STUDENT\Desktop\101604238\Week 9\SimpleWPFApp\CodedUITestProject4\bin\Debug\CodedUITestProject4.dll
+C:\Users\STUDENT\Desktop\101604238\Week 9\SimpleWPFApp\CodedUITestProject4\bin\Debug\CodedUITestProject4.pdb
+C:\Users\STUDENT\Desktop\101604238\Week 9\SimpleWPFApp\CodedUITestProject4\obj\Debug\CodedUITestProject4.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\101604238\Week 9\SimpleWPFApp\CodedUITestProject4\obj\Debug\CodedUITestProject4.dll
+C:\Users\STUDENT\Desktop\101604238\Week 9\SimpleWPFApp\CodedUITestProject4\obj\Debug\CodedUITestProject4.pdb
+C:\Users\STUDENT\Desktop\101604238\Week 9\SimpleWPFApp\CodedUITestProject4\obj\Debug\CodedUITestProject4.csprojAssemblyReference.cache

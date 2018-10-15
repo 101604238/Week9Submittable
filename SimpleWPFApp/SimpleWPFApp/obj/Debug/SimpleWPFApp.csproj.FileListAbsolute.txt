@@ -1,14 +1,15 @@
-C:\Users\STUDENT\Documents\GitHub\Week9Submittable\SimpleWPFApp\SimpleWPFApp\bin\Debug\SimpleWPFApp.exe.config
-C:\Users\STUDENT\Documents\GitHub\Week9Submittable\SimpleWPFApp\SimpleWPFApp\bin\Debug\SimpleWPFApp.exe
-C:\Users\STUDENT\Documents\GitHub\Week9Submittable\SimpleWPFApp\SimpleWPFApp\bin\Debug\SimpleWPFApp.pdb
-C:\Users\STUDENT\Documents\GitHub\Week9Submittable\SimpleWPFApp\SimpleWPFApp\obj\Debug\MainWindow.g.cs
-C:\Users\STUDENT\Documents\GitHub\Week9Submittable\SimpleWPFApp\SimpleWPFApp\obj\Debug\App.g.cs
-C:\Users\STUDENT\Documents\GitHub\Week9Submittable\SimpleWPFApp\SimpleWPFApp\obj\Debug\SimpleWPFApp_MarkupCompile.cache
-C:\Users\STUDENT\Documents\GitHub\Week9Submittable\SimpleWPFApp\SimpleWPFApp\obj\Debug\SimpleWPFApp_MarkupCompile.lref
-C:\Users\STUDENT\Documents\GitHub\Week9Submittable\SimpleWPFApp\SimpleWPFApp\obj\Debug\MainWindow.baml
-C:\Users\STUDENT\Documents\GitHub\Week9Submittable\SimpleWPFApp\SimpleWPFApp\obj\Debug\SimpleWPFApp.g.resources
-C:\Users\STUDENT\Documents\GitHub\Week9Submittable\SimpleWPFApp\SimpleWPFApp\obj\Debug\SimpleWPFApp.Properties.Resources.resources
-C:\Users\STUDENT\Documents\GitHub\Week9Submittable\SimpleWPFApp\SimpleWPFApp\obj\Debug\SimpleWPFApp.csproj.GenerateResource.Cache
-C:\Users\STUDENT\Documents\GitHub\Week9Submittable\SimpleWPFApp\SimpleWPFApp\obj\Debug\SimpleWPFApp.csproj.CoreCompileInputs.cache
-C:\Users\STUDENT\Documents\GitHub\Week9Submittable\SimpleWPFApp\SimpleWPFApp\obj\Debug\SimpleWPFApp.exe
-C:\Users\STUDENT\Documents\GitHub\Week9Submittable\SimpleWPFApp\SimpleWPFApp\obj\Debug\SimpleWPFApp.pdb
+C:\Users\STUDENT\Desktop\101604238\Week 9\SimpleWPFApp\SimpleWPFApp\bin\Debug\SimpleWPFApp.exe.config
+C:\Users\STUDENT\Desktop\101604238\Week 9\SimpleWPFApp\SimpleWPFApp\bin\Debug\SimpleWPFApp.exe
+C:\Users\STUDENT\Desktop\101604238\Week 9\SimpleWPFApp\SimpleWPFApp\bin\Debug\SimpleWPFApp.pdb
+C:\Users\STUDENT\Desktop\101604238\Week 9\SimpleWPFApp\SimpleWPFApp\obj\Debug\SimpleWPFApp.csprojAssemblyReference.cache
+C:\Users\STUDENT\Desktop\101604238\Week 9\SimpleWPFApp\SimpleWPFApp\obj\Debug\MainWindow.g.cs
+C:\Users\STUDENT\Desktop\101604238\Week 9\SimpleWPFApp\SimpleWPFApp\obj\Debug\App.g.cs
+C:\Users\STUDENT\Desktop\101604238\Week 9\SimpleWPFApp\SimpleWPFApp\obj\Debug\SimpleWPFApp_MarkupCompile.cache
+C:\Users\STUDENT\Desktop\101604238\Week 9\SimpleWPFApp\SimpleWPFApp\obj\Debug\SimpleWPFApp_MarkupCompile.lref
+C:\Users\STUDENT\Desktop\101604238\Week 9\SimpleWPFApp\SimpleWPFApp\obj\Debug\MainWindow.baml
+C:\Users\STUDENT\Desktop\101604238\Week 9\SimpleWPFApp\SimpleWPFApp\obj\Debug\SimpleWPFApp.g.resources
+C:\Users\STUDENT\Desktop\101604238\Week 9\SimpleWPFApp\SimpleWPFApp\obj\Debug\SimpleWPFApp.Properties.Resources.resources
+C:\Users\STUDENT\Desktop\101604238\Week 9\SimpleWPFApp\SimpleWPFApp\obj\Debug\SimpleWPFApp.csproj.GenerateResource.cache
+C:\Users\STUDENT\Desktop\101604238\Week 9\SimpleWPFApp\SimpleWPFApp\obj\Debug\SimpleWPFApp.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\101604238\Week 9\SimpleWPFApp\SimpleWPFApp\obj\Debug\SimpleWPFApp.exe
+C:\Users\STUDENT\Desktop\101604238\Week 9\SimpleWPFApp\SimpleWPFApp\obj\Debug\SimpleWPFApp.pdb

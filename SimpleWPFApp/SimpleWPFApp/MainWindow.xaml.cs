@@ -21,7 +21,6 @@ namespace SimpleWPFApp
     public partial class MainWindow : Window
     {
         private delegate void ProgressBarDelegate(System.Windows.DependencyProperty dp, Object value);
-
         public MainWindow()
         {
             InitializeComponent();
